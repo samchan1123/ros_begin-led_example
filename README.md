@@ -6,3 +6,4 @@ Try to combine subscriber and Publisher in one node
 
 .py: subscribe [distance] and publish [led brightness]
 
+.py is uploaded as package: arduino_trial
